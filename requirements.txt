@@ -1,0 +1,6 @@
+jittor
+matplotlib
+mcubes
+tqdm
+trimesh
+wandb
